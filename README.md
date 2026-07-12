@@ -1,5 +1,9 @@
 # TRIASTEK Static Website
 
+<p align="center">
+  <img src="assets/img/logo.png" alt="TRIASTEK Logo" width="180">
+</p>
+
 Static website untuk **PT Triguna Akses Teknologi (TRIASTEK)** — penyedia solusi telekomunikasi dan IT infrastructure di Indonesia.
 
 ## 🚀 Features
